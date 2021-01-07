@@ -4,7 +4,7 @@ VS Code Theme made for pro hackers. But no really, simple black and green theme 
 
 ## Screenshot :camera:
 
-![hacker theme](assets\screenshot.png "Hacker Theme for VS Code")
+![hacker theme](https://github.com/cammarb/hacker-theme-vscode/blob/master/assets/screenshot.png "Hacker Theme for VS Code")
 
 ## Instalation
 

@@ -2,7 +2,7 @@
   "name": "pro-hacker-theme",
   "displayName": "Pro hacker theme",
   "description": "VS Code Theme made for pro hackers. But no really, simple black and green theme to make you feel like hacker while you wirte poor code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "CamilaMartinezBedoya",
   "repository": {
     "type": "git",

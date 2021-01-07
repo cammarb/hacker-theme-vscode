@@ -1,0 +1,21 @@
+{
+    "name": "hacker-theme",
+    "displayName": "hacker-theme",
+    "description": "VS Code Theme made for hackers. But no really, simple black and green theme to make you feel like a real hacker while you code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hacker Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hacker Theme-color-theme.json"
+            }
+        ]
+    }
+}

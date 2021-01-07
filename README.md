@@ -1,4 +1,4 @@
-# Hacker Theme for [Visual Studio Code](https://marketplace.visualstudio.com/)
+# Pro Hacker Theme for [Visual Studio Code](https://marketplace.visualstudio.com/)
 
 VS Code Theme made for pro hackers. But no really, simple black and green theme to make you feel like a hacker while you write poor code. :computer:
 

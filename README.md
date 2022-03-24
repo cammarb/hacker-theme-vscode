@@ -8,7 +8,7 @@ VS Code Theme made for pro hackers. But no really, simple black and green theme 
 
 ## Instalation
 
-This theme is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/camilamartinezbedoya.pro-hacker-theme)
+This theme is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CamilaMartinezBedoya.pro-hacker-theme&ssr=false#overview)
 
 1. Install the extension
 2. Go to **View -> Command Palette**
